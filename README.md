@@ -7,7 +7,7 @@ Ce TP a été réalisé en binôme, Morgane MICHEL et Alberto MOUNGONDO.
 
 ---
 
-# 📡 Servuer TCP/IP 
+# 📡 Serveur TCP/IP 
 
 Dans les années 1990, CanaDuck passe à un réseau TCP/IP : chaque employé a un poste connecté. L'entreprise veut un serveur IRC moderne, capable de gérer plusieurs clients, envoyer des messages en direct et évoluer facilement. Ce TP vous fait développer ce serveur en architecture client-serveur avec threads et mémoire partagée, tout en réfléchissant à sa structure pour de futures extensions.
 
