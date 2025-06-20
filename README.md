@@ -18,5 +18,6 @@ Dans les années 1990, CanaDuck passe à un réseau TCP/IP : chaque employé a u
 - `README.md` : Ce fichier 
 - `architecture-protocolaire.md` : Réponse aux questions
 - `questions.md` : Réponse aux questions
+- `Schema.HEIC` : Schéma d'architecture 
 - `client.py` : Code pour le client
 - `serveur.py` : Code pour le serveur
