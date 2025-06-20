@@ -52,6 +52,7 @@ Les canaux vides ne sont pas supprimés automatiquement. Ils restent dans etat_s
 ### 2.2 À produire
 
 2.2.1 Un schéma d’architecture fonctionnelle
+![Schema d'architecture](Schema.HEIC)
 
 2.2.2 (en option pour ceux qui vont plus vite) Une fiche protocole
 
@@ -72,7 +73,7 @@ Réponse : <serveur> [canard] Ginette12: Bonjour tout le monde, je m’appelle G
 Exemple : <utilisateur> /read 
 Réponse : <serveur> Toutes les discussions sont en direct, pas de lecture différée
 
-/log : Affiche les 10 dernières lignes du log 
+/ : Affiche les 10 dernières lignes du log 
 Exemple : <utilisateur> /log 
 Réponse : <serveur> Roger12 a rejoint le canal canard.  
 Message de Roger12 sur #canard : Qui a des nœud papillon avec des canards comme moi ?
